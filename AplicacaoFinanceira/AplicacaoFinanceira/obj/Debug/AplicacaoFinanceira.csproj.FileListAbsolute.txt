@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\bin\Debug\AplicacaoFinanceira.exe.config
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\bin\Debug\AplicacaoFinanceira.exe
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\bin\Debug\AplicacaoFinanceira.pdb
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.exe
+C:\Users\murilo.aprado\source\repos\AplicacaoFinanceira\AplicacaoFinanceira\obj\Debug\AplicacaoFinanceira.pdb

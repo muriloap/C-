@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\bin\Debug\AtvMilhasQuilometros.exe.config
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\bin\Debug\AtvMilhasQuilometros.exe
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\bin\Debug\AtvMilhasQuilometros.pdb
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.exe
+C:\Users\murilo.aprado\source\repos\AtvMilhasQuilometros\AtvMilhasQuilometros\obj\Debug\AtvMilhasQuilometros.pdb

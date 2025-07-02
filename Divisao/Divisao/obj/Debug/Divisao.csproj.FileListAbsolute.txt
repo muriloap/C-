@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\bin\Debug\Divisao.exe.config
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\bin\Debug\Divisao.exe
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\bin\Debug\Divisao.pdb
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.exe
+C:\Users\murilo.aprado\source\repos\Divisao\Divisao\obj\Debug\Divisao.pdb

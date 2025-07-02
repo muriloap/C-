@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\murilo.aprado\source\repos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\murilo.aprado\source\repos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\murilo.aprado\source\repos\IMC\IMC\obj\Debug\IMC.pdb

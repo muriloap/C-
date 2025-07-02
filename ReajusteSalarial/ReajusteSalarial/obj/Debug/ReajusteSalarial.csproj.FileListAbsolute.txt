@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+C:\Users\murilo.aprado\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb
