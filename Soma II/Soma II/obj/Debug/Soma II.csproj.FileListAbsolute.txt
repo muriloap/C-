@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\bin\Debug\Soma II.exe.config
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\bin\Debug\Soma II.exe
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\bin\Debug\Soma II.pdb
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma II.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma_II.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma_II.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma II.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma II.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma II.exe
+C:\Users\murilo.aprado\source\repos\Soma II\Soma II\obj\Debug\Soma II.pdb

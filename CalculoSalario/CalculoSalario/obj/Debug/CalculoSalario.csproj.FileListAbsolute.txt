@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\murilo.aprado\source\repos\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.aprado\\source\\repos\\MiniCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E42BB36-D074-403C-A220-9EE386C37F03}|MiniCalc\\MiniCalc.csproj|c:\\users\\murilo.aprado\\source\\repos\\minicalc\\minicalc\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E42BB36-D074-403C-A220-9EE386C37F03}|MiniCalc\\MiniCalc.csproj|solutionrelative:minicalc\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E42BB36-D074-403C-A220-9EE386C37F03}|MiniCalc\\MiniCalc.csproj|c:\\users\\murilo.aprado\\source\\repos\\minicalc\\minicalc\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E42BB36-D074-403C-A220-9EE386C37F03}|MiniCalc\\MiniCalc.csproj|solutionrelative:minicalc\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmprincipal.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.aprado\\source\\repos\\MiniCalc\\MiniCalc\\frmprincipal.cs",
+              "RelativeDocumentMoniker": "MiniCalc\\frmprincipal.cs",
+              "ToolTip": "C:\\Users\\murilo.aprado\\source\\repos\\MiniCalc\\MiniCalc\\frmprincipal.cs",
+              "RelativeToolTip": "MiniCalc\\frmprincipal.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:01:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmprincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\murilo.aprado\\source\\repos\\MiniCalc\\MiniCalc\\frmprincipal.cs",
+              "RelativeDocumentMoniker": "MiniCalc\\frmprincipal.cs",
+              "ToolTip": "C:\\Users\\murilo.aprado\\source\\repos\\MiniCalc\\MiniCalc\\frmprincipal.cs [Design]",
+              "RelativeToolTip": "MiniCalc\\frmprincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:48:58.522Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

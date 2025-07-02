@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\bin\Debug\MiniCalc.exe.config
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\bin\Debug\MiniCalc.exe
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\bin\Debug\MiniCalc.pdb
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.exe
+C:\Users\murilo.aprado\source\repos\MiniCalc\MiniCalc\obj\Debug\MiniCalc.pdb

@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\bin\Debug\DigitaNumero.exe.config
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\bin\Debug\DigitaNumero.exe
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\bin\Debug\DigitaNumero.pdb
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.frmPrincipal.resources
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.exe
+C:\Users\murilo.aprado\source\repos\DigitaNumero\DigitaNumero\obj\Debug\DigitaNumero.pdb

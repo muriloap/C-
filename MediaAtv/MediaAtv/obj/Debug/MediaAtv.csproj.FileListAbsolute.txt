@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\bin\Debug\MediaAtv.exe.config
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\bin\Debug\MediaAtv.exe
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\bin\Debug\MediaAtv.pdb
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.exe
+C:\Users\murilo.aprado\source\repos\MediaAtv\MediaAtv\obj\Debug\MediaAtv.pdb

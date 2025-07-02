@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.aprado\\source\\repos\\Ordenacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48EAF3E1-76D0-4EDE-BD44-AB0C500028D5}|Ordenacao\\Ordenacao.csproj|c:\\users\\murilo.aprado\\source\\repos\\ordenacao\\ordenacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EAF3E1-76D0-4EDE-BD44-AB0C500028D5}|Ordenacao\\Ordenacao.csproj|solutionrelative:ordenacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EAF3E1-76D0-4EDE-BD44-AB0C500028D5}|Ordenacao\\Ordenacao.csproj|C:\\Users\\murilo.aprado\\source\\repos\\Ordenacao\\ordenacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48EAF3E1-76D0-4EDE-BD44-AB0C500028D5}|Ordenacao\\Ordenacao.csproj|solutionrelative:ordenacao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmprincipal.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.aprado\\source\\repos\\Ordenacao\\Ordenacao\\frmprincipal.cs",
+              "RelativeDocumentMoniker": "Ordenacao\\frmprincipal.cs",
+              "ToolTip": "C:\\Users\\murilo.aprado\\source\\repos\\Ordenacao\\Ordenacao\\frmprincipal.cs",
+              "RelativeToolTip": "Ordenacao\\frmprincipal.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAFAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:25:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmprincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\murilo.aprado\\source\\repos\\Ordenacao\\Ordenacao\\frmprincipal.cs",
+              "RelativeDocumentMoniker": "Ordenacao\\frmprincipal.cs",
+              "ToolTip": "C:\\Users\\murilo.aprado\\source\\repos\\Ordenacao\\Ordenacao\\frmprincipal.cs [Design]",
+              "RelativeToolTip": "Ordenacao\\frmprincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:18:48.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

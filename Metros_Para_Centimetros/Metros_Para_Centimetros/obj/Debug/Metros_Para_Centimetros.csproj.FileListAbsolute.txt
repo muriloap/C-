@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\bin\Debug\Metros_Para_Centimetros.exe.config
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\bin\Debug\Metros_Para_Centimetros.exe
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\bin\Debug\Metros_Para_Centimetros.pdb
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.exe
+C:\Users\murilo.aprado\source\repos\Metros_Para_Centimetros\Metros_Para_Centimetros\obj\Debug\Metros_Para_Centimetros.pdb

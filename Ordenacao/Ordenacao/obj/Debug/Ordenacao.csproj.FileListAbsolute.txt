@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\murilo.aprado\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb

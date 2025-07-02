@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe.config
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\bin\Debug\CalculoArea.pdb
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.exe
+C:\Users\murilo.aprado\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.pdb

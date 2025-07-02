@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\Medias\Medias\bin\Debug\Medias.exe.config
+C:\Users\murilo.aprado\source\repos\Medias\Medias\bin\Debug\Medias.exe
+C:\Users\murilo.aprado\source\repos\Medias\Medias\bin\Debug\Medias.pdb
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.exe
+C:\Users\murilo.aprado\source\repos\Medias\Medias\obj\Debug\Medias.pdb
