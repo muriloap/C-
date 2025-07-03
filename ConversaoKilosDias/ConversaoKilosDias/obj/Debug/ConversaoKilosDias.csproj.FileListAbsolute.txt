@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\bin\Debug\ConversaoKilosDias.exe.config
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\bin\Debug\ConversaoKilosDias.exe
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\bin\Debug\ConversaoKilosDias.pdb
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.exe
+C:\Users\murilo.aprado\source\repos\ConversaoKilosDias\ConversaoKilosDias\obj\Debug\ConversaoKilosDias.pdb

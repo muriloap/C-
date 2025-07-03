@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.aprado\\source\\repos\\PorcentagemCondicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE6837-5B0B-4654-9A5B-20DA394CD9B6}|PorcentagemCondicao\\PorcentagemCondicao.csproj|c:\\users\\murilo.aprado\\source\\repos\\porcentagemcondicao\\porcentagemcondicao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE6837-5B0B-4654-9A5B-20DA394CD9B6}|PorcentagemCondicao\\PorcentagemCondicao.csproj|solutionrelative:porcentagemcondicao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE6837-5B0B-4654-9A5B-20DA394CD9B6}|PorcentagemCondicao\\PorcentagemCondicao.csproj|C:\\Users\\murilo.aprado\\source\\repos\\PorcentagemCondicao\\porcentagemcondicao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FCE6837-5B0B-4654-9A5B-20DA394CD9B6}|PorcentagemCondicao\\PorcentagemCondicao.csproj|solutionrelative:porcentagemcondicao\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmprincipal.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.aprado\\source\\repos\\PorcentagemCondicao\\PorcentagemCondicao\\frmprincipal.cs",
+              "RelativeDocumentMoniker": "PorcentagemCondicao\\frmprincipal.cs",
+              "ToolTip": "C:\\Users\\murilo.aprado\\source\\repos\\PorcentagemCondicao\\PorcentagemCondicao\\frmprincipal.cs",
+              "RelativeToolTip": "PorcentagemCondicao\\frmprincipal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:08:12.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmprincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\murilo.aprado\\source\\repos\\PorcentagemCondicao\\PorcentagemCondicao\\frmprincipal.cs",
+              "RelativeDocumentMoniker": "PorcentagemCondicao\\frmprincipal.cs",
+              "ToolTip": "C:\\Users\\murilo.aprado\\source\\repos\\PorcentagemCondicao\\PorcentagemCondicao\\frmprincipal.cs [Design]",
+              "RelativeToolTip": "PorcentagemCondicao\\frmprincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:03:34.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\bin\Debug\PorcentagemCondicao.exe.config
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\bin\Debug\PorcentagemCondicao.exe
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\bin\Debug\PorcentagemCondicao.pdb
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.csproj.AssemblyReference.cache
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.frmprincipal.resources
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.Properties.Resources.resources
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.csproj.GenerateResource.cache
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.csproj.CoreCompileInputs.cache
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.exe
+C:\Users\murilo.aprado\source\repos\PorcentagemCondicao\PorcentagemCondicao\obj\Debug\PorcentagemCondicao.pdb
